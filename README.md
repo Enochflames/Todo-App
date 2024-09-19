@@ -12,7 +12,7 @@ TodoMatic is a simple, interactive, and user-friendly to-do list application bui
 
 ## Screenshots
 
-![TodoMatic Screenshot](screenshot.png)
+![TodoMatic Screenshot](Todoscreenshot.png)
 
 ## Technologies Used
 
