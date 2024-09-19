@@ -3,11 +3,11 @@ import { Trash2, Edit } from 'lucide-react';
 
 const TodoApp = () => {
   const [tasks, setTasks] = useState([
-    { id: 1, text: 'Exercise', completed: true },
-    { id: 2, text: 'Eat', completed: false },
-    { id: 3, text: 'Pray', completed: false },
-    { id: 4, text: 'Work', completed: false },
-    { id: 5, text: 'Sleep', completed: false },
+    { id: 1, text: 'Eat', completed: true },
+    { id: 2, text: 'Sleep', completed: false },
+    { id: 3, text: 'Repeat', completed: false },
+    { id: 4, text: 'Pray', completed: false },
+    { id: 5, text: 'Exercise', completed: false },
   ]);
   const [newTask, setNewTask] = useState('');
   const [filter, setFilter] = useState('All');
