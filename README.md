@@ -59,5 +59,4 @@ Make sure you have the following installed on your machine:
 3. **Delete a task**: Click the trash icon next to a task to delete it.
 4. **Filter tasks**: Use the filter buttons (`All`, `Active`, `Completed`) to display tasks based on their completion status.
 
-## Project Structure
 
