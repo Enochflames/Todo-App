@@ -3,11 +3,11 @@ import { Trash2, Edit, Check } from 'lucide-react'; // Added Check icon for savi
 
 const TodoApp = () => {
   const [tasks, setTasks] = useState([
-    { id: 1, text: 'Eat', completed: true },
-    { id: 2, text: 'Sleep', completed: false },
-    { id: 3, text: 'Repeat', completed: false },
-    { id: 4, text: 'Pray', completed: false },
-    { id: 5, text: 'Exercise', completed: false },
+    { id: 1, text: 'Pray', completed: true },
+    { id: 2, text: 'Exercise', completed: false },
+    { id: 3, text: 'Eat', completed: false },
+    { id: 4, text: 'Work', completed: false },
+    { id: 5, text: 'Sleep', completed: false },
   ]);
 
   const [newTask, setNewTask] = useState('');
