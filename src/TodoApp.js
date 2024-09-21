@@ -54,7 +54,7 @@ const TodoApp = () => {
 
   return (
     <div className="max-w-md mx-auto mt-10 p-6 bg-blue-100 rounded-lg shadow-md">
-      <h1 className="text-2xl font-bold mb-4 text-center">TodoMatic</h1>
+      <h1 className="text-2xl font-bold mb-4 text-center">Todo App</h1>
       <form onSubmit={addTask} className="mb-4">
         <input
           type="text"
